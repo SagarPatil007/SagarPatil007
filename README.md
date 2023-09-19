@@ -19,10 +19,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sagarpa51402019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagarpa51402019" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sagar-patil-4637661b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sagar-patil-4637661b4/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12506249/sagar-patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12506249/sagar-patil" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sagar_patil9687/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sagar_patil9687/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sagarpatil98754/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sagarpatil98754/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sagar-patil-4637661b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-patil-4637661b4/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12506249/sagar-patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12506249/sagar-patil" height="30" width="40" /></a>
+<a href="https://instagram.com/sagar_patil9687/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagar_patil9687/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sagarpatil98754/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sagarpatil98754/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,4 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagarpatil007&show_icons=true&locale=en" alt="sagarpatil007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarpatil007&" alt="sagarpatil007" /></p>
-
