@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sagar Patil</h1>
 <h3 align="center">Passionate Backend Developer crafting scalable microservices with Spring Boot</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarpatil007&label=Profile%20views&color=0e75b6&style=flat" alt="sagarpatil007" /> </p>
 
@@ -14,7 +15,7 @@
 
 - 📫 How to reach me **iamsagarbpatil@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qk1z_NjHIz67_mRDPkPdjh6irz8MEszr/view](https://drive.google.com/file/d/1qk1z_NjHIz67_mRDPkPdjh6irz8MEszr/view)
+- 📄 Know about my experiences [CV Link](https://drive.google.com/file/d/1qk1z_NjHIz67_mRDPkPdjh6irz8MEszr/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
